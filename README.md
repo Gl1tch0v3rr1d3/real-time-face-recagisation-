@@ -57,8 +57,8 @@ A real-time **face detection and face recognition** system built with **Python +
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Gl1tch0v3rr1d3/real-time-face-recagisation-.git
-cd your-repo-name
+https://github.com/Gl1tch0v3rr1d3/real-time-face-recagisation-.git
+cd real-time-face-recagisation-
 ```
 
 ### 2. Install dependencies
@@ -76,7 +76,7 @@ pip install opencv-contrib-python numpy
 Run the main script:
 
 ```bash
-python main.py
+python camra-1.py 
 ```
 
 On first launch, you will be guided through **face database setup**.
