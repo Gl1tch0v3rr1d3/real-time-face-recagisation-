@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Contrib-green?logo=opencv)
+![Computer Vision](https://img.shields.io/badge/Field-Computer%20Vision-purple)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Face Tracker & Recognition System
 
 A real-time **face detection and face recognition** system built with **Python + OpenCV**. This project supports live webcam tracking, identity recognition using **LBPH**, dataset creation, model training, persistence, and an interactive command-driven UI.
