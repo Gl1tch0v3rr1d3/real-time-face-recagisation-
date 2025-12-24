@@ -43,10 +43,10 @@ A real-time **face detection and face recognition** system built with **Python +
 ├── face_data/                 # Face dataset (one folder per person)
 │   ├── Alice/
 │   ├── Bob/
-│   └── ...
+│   └── ShadowRoot17/
 ├── face_recognizer_model.yml  # Trained LBPH model
 ├── label_mappings.pkl         # Label ↔ name mappings
-├── main.py                    # Main application script
+├── camra-1.py                 # Main application script
 └── README.md
 ```
 
@@ -57,7 +57,7 @@ A real-time **face detection and face recognition** system built with **Python +
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Gl1tch0v3rr1d3/real-time-face-recagisation-.git
 cd your-repo-name
 ```
 
