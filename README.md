@@ -150,7 +150,7 @@ You are responsible for complying with all applicable privacy and data protectio
 ✔️ Real-time
 ✔️ Offline
 
-This project is **beyond demo-level** and suitable for portfolios, CV experiments, and further research.
+
 
 ---
 
@@ -159,5 +159,3 @@ This project is **beyond demo-level** and suitable for portfolios, CV experiment
 MIT License — use responsibly.
 
 ---
-
-> Built with focus, curiosity, and zero tutorial-copy energy.
